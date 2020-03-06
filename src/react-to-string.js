@@ -22,6 +22,7 @@ const reactToString = element => {
   if (element.props && !element.props.children) {
     return '';
   }
+  // console test
 
   return '';
 }
