@@ -1,3 +1,4 @@
+// test comment
 const reactToString = element => {
   if (!element) {
     return '';
